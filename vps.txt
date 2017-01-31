@@ -1,0 +1,35 @@
+
+aptitude install cpulimit
+cpulimit -e minerd -l 60
+service crond start
+
+screen -d -m ./start.sh worked for me too.
+
+
+*/1 * * * * sh /auto/del2.sh
+0 0 * * * sh /autocache/clearcache.sh
+*/1 * * * * sh /auto/dellock.sh
+*/1 * * * * sh /auto/delmail.sh
+*/1 * * * * sh /auto/check_lock.sh
+
+
+#!/bin/sh
+sync; echo 3 > /proc/sys/vm/drop_caches
+
+
+kill
+Chay
+nghi 5p (dang chay 5p)
+kill
+sleep 1p
+
+PHP
+START --> while {
+		KILL
+		RUN
+		SLEEP 1
+		}
+
+		
+		1p -- KILL
+		6  -- Sleep 5 --> Run
