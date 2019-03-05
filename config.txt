@@ -1,3 +1,3 @@
 D:\
-false
-G:\Desktop\js\scripts
+true
+D:\thuthuat\video\
