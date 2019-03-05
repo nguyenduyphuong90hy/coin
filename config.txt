@@ -1,2 +1,2 @@
-G:\CODE WEB
+G:\Desktop\js\scripts
 true
