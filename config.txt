@@ -1,6 +1,6 @@
 D:\
 true
-D:\thuthuat\video\
+G:\Setup\Anh\
 ftp://125.212.245.229/domains/bachtuyet.net/public_html/upload_file/
 bachtuyet
 Pokemon2016
